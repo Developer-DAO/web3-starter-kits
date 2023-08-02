@@ -1,6 +1,7 @@
 # Web3 Starter Kits
 
 A collection of the best Officially Maintained Web3 Starter Kits from Developer DAO and Member submitted projects.
+[Terms & Conditions](https://github.com/Developer-DAO/the-developer-dao-foundation/blob/main/foundation-docs/D_D%20RESOURCES%20T%26C.pdf) - Developer DAO Terms and Conditions
 
 ## Why Create Web3 Starter Kits Repo?
 

@@ -12,5 +12,6 @@ Our goal with the Web3 Starter Kits Repo, is to provide Members and non-members 
 ## Official D_D Web3 Starter Kits
 
 ## Community Web3 Starter-Kits
+- [Web3 Docker Quickstart](https://github.com/0xThresh/web3-docker-quickstart)
 
 ## Suporters

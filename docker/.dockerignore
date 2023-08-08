@@ -1,0 +1,6 @@
+.git
+.gitignore
+node_modules
+yarn.lock
+# Excluding mnt/ to demonstrate mount capability
+mnt/

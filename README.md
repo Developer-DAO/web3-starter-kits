@@ -16,6 +16,12 @@ Our goal with the Web3 Starter Kits Repo, is to provide Members and non-members 
 - [Web3 Docker Quickstart](https://github.com/0xThresh/web3-docker-quickstart)
   Introduction to Docker specific to web3 use cases
 
+- [Streamr Starter Kit](https://github.com/PSkinnerTech/streamr-starter-kit)
+  Introduction to Streamr data usage in a Next.js App.
+
+- [WalletConnect Web3Modal Mobile App Starter Kit](https://github.com/PSkinnerTech/walletconnect-w3m-expo-kit)
+  Easily build a mobile app with WalletConnect and Web3Modal v3. Starter kit includes Expo^49 and expo-router with dynamic routing configured in typescript.
+
 ## Preferred Partners
 
 [![Zerion - Preferred Wallet Partner](./assets/zerion-lockup_main.png)](https://devdao.to/get-zerion)

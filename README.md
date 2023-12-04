@@ -22,6 +22,15 @@ Our goal with the Web3 Starter Kits Repo, is to provide Members and non-members 
 - [WalletConnect Web3Modal Mobile App Starter Kit](https://github.com/PSkinnerTech/walletconnect-w3m-expo-kit)
   Easily build a mobile app with WalletConnect and Web3Modal v3. Starter kit includes Expo^49 and expo-router with dynamic routing configured in typescript.
 
+- [ape-hackathon-kit](https://github.com/wolovim/ape-hackathon-kit)
+  Python project template with a web front-end (Ape, Next.js, Tailwind, RainbowKit, wagmi)
+
+- [Temo](https://github.com/wolovim/temo)
+  Python terminal app utilizing async web3py, Textual, Anvil
+
+- [web3py-discord-bot](https://github.com/wolovim/web3py-discord-bot)
+  Python Discord bot utilizing websockets, eth_subscribe, and discord.py
+
 ## Preferred Partners
 
 [![Zerion - Preferred Wallet Partner](./assets/zerion-lockup_main.png)](https://devdao.to/get-zerion)

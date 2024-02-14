@@ -33,4 +33,9 @@ Our goal with the Web3 Starter Kits Repo, is to provide Members and non-members 
 
 ## Preferred Partners
 
-[![Zerion - Preferred Wallet Partner](./assets/zerion-lockup_main.png)](https://devdao.to/get-zerion)
+<a href="https://devdao.to/get-zerion">
+<img src="/assets/zerion-icon_circle.png" style="width:200px">
+</a>
+<a href="https://devdao.to/pokt-network">
+<img src="./assets/pokt-network%20logo-dark.png" style="width:200px">
+</a>
